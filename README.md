@@ -1,1 +1,1 @@
-# effective-parakeet
+# MIST 4610 Group Project
